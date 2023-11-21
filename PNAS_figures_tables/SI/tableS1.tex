@@ -1,0 +1,111 @@
+\begin{ThreePartTable}
+
+\begin{TableNotes}
+    \item[a] Assumed same as natural gas.
+    \item[b] Assumed same as diesel.
+    \item[c] Assumed same as heating oil.
+    \item[d] Assumed as the same as the lower bound of global crude oil PED.
+    \item[e] Assumed same as gasoline.
+    \item[f] Assumed same as jet fuel.
+\end{TableNotes}
+
+\begin{longtable}{ >{\raggedright}p{9em} l l l l l l l }
+\caption{Price elasticity values used in analysis}\label{table:elasticities} \\
+    \toprule
+    Source                                                & Fuel          & Sector      & NERC Region     & PED min & PED max & PES min & PES max\\ 
+    \midrule
+    \endfirsthead
+
+    \toprule
+    Source                                                & Fuel          & Sector      & NERC Region     & PED min & PED max & PES min & PES max\\ 
+    \midrule
+    \endhead
+
+    \midrule
+    \multicolumn{8}{r}{\textit{continued}}\\
+    \endfoot  
+    
+    \bottomrule
+    \insertTableNotes  % tell LaTeX where to insert the table-related notes
+    \endlastfoot
+    
+    \cite{burke_is_2015}                                 & Coal          & Industry    &      & -0.7    & -0.3    &         &        \\ 
+    \cite{erickson_would_2018}                           & Coal          & All         &      &         &         & 2.6     & 2.6    \\ 
+    \cite{us_energy_information_administration_fuel_2012}& Coal          & Power       & FRCC & -0.53   & -0.53   &         &        \\
+                                                          &               &             & MRO  & -0.11   & -0.11   &         &        \\
+                                                          &               &             & NPCC & -0.23   & -0.23   &         &        \\
+                                                          &               &             & RFC  & -0.18   & -0.18   &         &        \\
+                                                          &               &             & SERC & -0.22   & -0.22   &         &        \\
+                                                          &               &             & SPP  & -0.02   & -0.02   &         &        \\
+                                                          &               &             & TRE  & -0.02   & -0.02   &         &        \\
+                                                          &               &             & WECC & -0.14   & -0.14   &         &        \\
+                                                          &               &             & ASCC & -0.11   & -0.11   &         &        \\
+                                                          &               &             & HICC & -0.11   & -0.11   &         &        \\
+                                                          & Natural gas   & Power       & FRCC & -0.16   & -0.16   &         &        \\
+                                                          &               &             & MRO  & -0.31   & -0.31   &         &        \\
+                                                          &               &             & NPCC & -0.21   & -0.21   &         &        \\
+                                                          &               &             & RFC  & -0.60   & -0.60   &         &        \\
+                                                          &               &             & SERC & -0.41   & -0.41   &         &        \\
+                                                          &               &             & SPP  & -0.02   & -0.02   &         &        \\
+                                                          &               &             & TRE  & -0.02   & -0.02   &         &        \\
+                                                          &               &             & WECC & -0.05   & -0.05   &         &        \\
+                                                          &               &             & ASCC & -0.29   & -0.29   &         &        \\
+                                                          &               &             & HICC & -0.29   & -0.29   &         &        \\
+                                                          & Residual fuel oil& Power    & FRCC & -2.16   & -2.16   &         &        \\
+                                                          &               &             & MRO  & -0.70   & -0.70   &         &        \\
+                                                          &               &             & NPCC & -1.26   & -1.26   &         &        \\
+                                                          &               &             & RFC  & -1.13   & -1.13   &         &        \\
+                                                          &               &             & SERC & -1.53   & -1.53   &         &        \\
+                                                          &               &             & SPP  & -1.28   & -1.28   &         &        \\
+                                                          &               &             & TRE  & -0.05   & -0.05   &         &        \\
+                                                          &               &             & WECC & -0.64   & -0.64   &         &        \\
+                                                          &               &             & ASCC & -1.26   & -1.26   &         &        \\
+                                                          &               &             & HICC & -1.26   & -1.26   &         &        \\
+    
+    \cite{ponce_elasticities_2014}                       & Natural gas   & All         &      &         &         & 0.76    & 0.76   \\
+                                                          & LPG           & All         &      &         &         & 0.76\tnote{a} & 0.76\tnote{a} \\ 
+    \cite{labandeira_meta-analysis_2017}                 & Natural gas   & Industry    &      & -0.053  & -0.053  &         &        \\
+                                                          & Natural gas   & Commercial  &      & -0.292  &         &         &        \\
+                                                          & Natural gas   & Residential &      & -0.042  & -0.042  &         &        \\
+                                                          & Diesel        & Industry    &      & -0.741  & -0.741  &         &        \\
+                                                          & Residual fuel oil& Industry &      & -0.741\tnote{b}  & &         &        \\
+                                                          & Heating oil   & Commercial  &      &         & -0.185  &         &        \\
+                                                          & LPG           & Commercial  &      &         & -0.185\tnote{c}        &         &        \\
+                                                          & Electricity   & Industry    &      &         & -0.145  &         &        \\ 
+    \cite{anton_taxing_2020}                             & Crude oil     & Industry    &      & -0.6    & -0.03   &         &        \\
+                                                              & Residual fuel oil& Industry &      &         & -0.6\tnote{d}   &         &        \\
+    \cite{smith_world_2009}                              & Crude oil     & All         &      &         &         & 0.10    &        \\ 
+    \cite{gately_opecs_2004}                             & Crude oil     & All         &      &         &         &         & 0.58   \\ 
+    \cite{brons_meta-analysis_2008}                      & Gasoline      & Transport   &      & -0.84   & -0.84   &         &        \\ 
+                                                          & Diesel        & Transport   &      & -0.84\tnote{e}   & -0.84\tnote{e}   &         &        \\ 
+    \cite{coyle_estimating_2012}                         & Gasoline      & All         &      &         &         & 0.29\   & 2.0    \\ 
+                                                          & Diesel        & All         &      &         &         & 0.29\tnote{e} & 2.0\tnote{e}        \\ 
+                                                          & Heating oil   & All         &      &         &         & 0.29\tnote{e} & 2.0\tnote{e}        \\
+                                                          & Residual fuel oil& All      &      &         &         & 0.29\tnote{e} & 2.0\tnote{e}        \\
+                                                          & Jet fuel      & All         &      &         &         & 0.29\tnote{e} & 2.0\tnote{e}        \\
+    \cite{sobieralski_demand_2012}                       & Jet fuel      & Transport   &      & -0.15   & -0.10   &         &        \\ 
+                                                          & Residual fuel oil& Transport   &      & -0.15\tnote{f}   & -0.10\tnote{f}   &         &        \\
+    
+    \cite{us_energy_information_administration_price_2021}& Natural gas  & Commercial  &      &         & -0.28   &         &        \\
+                                                          & Heating oil   & Commercial  &      & -0.30   &         &         &        \\
+                                                          & Heating oil   & Residential &      & -0.24   & -0.24   &         &        \\
+                                                          & LPG           & Commercial  &      & -0.30\tnote{c}   &         &         &        \\
+                                                          & Electricity   & Residential &      & -0.50   & -0.50   &         &        \\
+                                                          & Electricity   & Commercial  &      &         & -0.18   &         &        \\
+    \cite{burke_price_2018}                              & Electricity   & Commercial  &      & -0.60   &         &         &        \\
+    \cite{ros_econometric_2017}                          & Electricity   & Industry    &      & -0.60   &         &         &        \\
+    Calculated using                                & Electricity   & All         & FRCC &         &         & 1.180   & 1.180  \\
+    data from \cite{deetjen_reduced-order_2019},                                                      &               &             & MRO  &         &         & 0.985   & 0.985  \\
+    see explanation                                       &               &             & NPCC &         &         & 2.673   & 2.673  \\
+    above.                                                &               &             & RFC  &         &         & 1.651   & 1.651  \\
+                                                          &               &             & SERC &         &         & 1.550   & 1.550  \\
+                                                          &               &             & SPP  &         &         & 0.985   & 0.985  \\
+                                                          &               &             & TRE  &         &         & 4.022   & 4.022  \\
+                                                          &               &             & WECC &         &         & 1.597   & 1.597  \\
+                                                          &               &             & ASCC &         &         & 1.830   & 1.830  \\
+                                                          &               &             & HICC &         &         & 1.830   & 1.830  \\                                                  
+\end{longtable}   
+\end{ThreePartTable}
+\begin{minipage}{\linewidth}
+{\scriptsize \textit{Notes:} Price elasticities for a given fuel and sector were taken from the literature---sources for each elasticity figure in this table are listed in the ``source'' column. Where a range of values were provided by the literature, maximum and minimum values were taken and used to calculate maximum and minimum values for $\rho$. Average values for $\rho$ were then calculated as the average of the maximum and minimum values, and these average values were the ones used in the analysis. In some cases, price elasticity data were not available and values were assumed based on the price elasticities of similar fuels. \par}
+\end{minipage}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cat="http://standards.iso.org/iso/19115/-3/cat/1.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:srv="http://standards.iso.org/iso/19115/-3/srv/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mda="http://standards.iso.org/iso/19115/-3/mda/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mdt="http://standards.iso.org/iso/19115/-3/mdt/1.0" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:dqc="http://standards.iso.org/iso/19157/-2/dqc/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mdb:metadataScope>
+<mdb:MD_MetadataScope>
+<mdb:resourceScope>
+<MD_ScopeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</MD_ScopeCode>
+</mdb:resourceScope>
+</mdb:MD_MetadataScope>
+</mdb:metadataScope>
+<mdb:contact gco:nilReason="missing">
+</mdb:contact>
+<mdb:dateInfo gco:nilReason="missing">
+</mdb:dateInfo>
+<mdb:metadataStandard>
+<cit:CI_Citation>
+<cit:title>
+<gco:CharacterString>ISO 19115-3 Geographic Information - Metadata - Part 1: Fundamentals</gco:CharacterString>
+</cit:title>
+<cit:edition>
+<gco:CharacterString>2014</gco:CharacterString>
+</cit:edition>
+</cit:CI_Citation>
+</mdb:metadataStandard>
+<mdb:identificationInfo>
+<mri:MD_DataIdentification>
+<mri:citation>
+<cit:CI_Citation>
+<cit:title>
+<gco:CharacterString>MSA and NonMSA IRA Status</gco:CharacterString>
+</cit:title>
+</cit:CI_Citation>
+</mri:citation>
+<mri:abstract>
+<gco:CharacterString>Data on the status of U.S. Metropolitan statistical areas (MSAs) and non-metropolitan statistical areas (non-MSAs) that meet criteria under the IRA. These data includes MSAs/Non-MSAs that meet the 0.17% Fossil Fuel Employment (FFE) threshold and if they meet the unemployment rate requirement also to meet the requirements of an Energy Communities for 2023. These MSAs and non-MSAs that are labeled to meet the energy communities status have had for at least one year since 2009, 0.17% or greater direct employment related to extraction, processing, transport, or storage of coal, oil, or natural gas (the fossil fuel employment (FFE) threshold) and have an unemployment rate for 2022 that is equal to or greater than the national average unemployment rate for 2022. These MSAs and non-MSAs that meet the 2022 unemployment rate requirement are energy communities as of January 1, 2023 and will maintain that status until the unemployment rates for 2023 become available and a new list of energy communities is provided.  The guidance that determines the MSAs and non-MSAs that are energy communities based on 2023 unemployment rates will likely be released in May 2024. The MSAs and non-MSAs that only meet the FFE threshold are not energy communities for 2023 because they do not meet the unemployment rate requirement; however, these areas could become energy communities in a future year if the unemployment requirement is also met.</gco:CharacterString>
+</mri:abstract>
+<mri:purpose>
+<gco:CharacterString>Status of MSAs/non-MSAs in relation to criteria defined in the IRA related to the energy community requirements, including both status for the Fossil Fuel Employment (FFE) threshold and the unemployment rate requirement.</gco:CharacterString>
+</mri:purpose>
+<mri:credit>
+<gco:CharacterString>U.S. Department of Energy (DOE), National Energy Technology Laboratory (NETL), Interagency Working Group (IWG) on Coal &amp; Power Plant Communities &amp; Economic Revitalization, U.S. Department of the Treasury</gco:CharacterString>
+</mri:credit>
+<mri:descriptiveKeywords>
+<mri:MD_Keywords>
+<mri:keyword>
+<gco:CharacterString>Energy Community</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>U.S.</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Unemployment</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Fossil Fuel</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Employment</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Fossil Fuel Employment</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Inflation Reduction Act</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>IRA</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Tax Credit Bonus</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Metropolitan Statistical Area (MSA)</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Non-Metropolitan Statistical Area (Non-MSA)</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>U.S. Department of Energy (DOE)</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>National Energy Technology Laboratory (NETL)</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>Interagency Working Group (IWG) on Coal and Power Plant Communities and Economic Revitalization</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>U.S. Department of the Treasury</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>DOE</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>NETL</gco:CharacterString>
+</mri:keyword>
+<mri:keyword>
+<gco:CharacterString>IWG</gco:CharacterString>
+</mri:keyword>
+</mri:MD_Keywords>
+</mri:descriptiveKeywords>
+<mri:resourceConstraints>
+<mco:MD_Constraints>
+<mco:useLimitation>
+<gco:CharacterString>These spatial data may not be relied upon by taxpayers to substantiate a tax return position or for determining whether certain penalties apply and will not be used by the IRS for examination purposes. The mapping tool does not reflect the application of the law to a specific taxpayer’s situation, and the applicable Internal Revenue Code provisions ultimately control.License: Creative Commons Attribution. This allows for the re-distribution and re-use of this work on the condition that this content is appropriately credited. Please use the citation below whenever re-distribution or re-using this work.Citation: U.S. Department of Energy (DOE), National Energy Technology Laboratory (NETL), Interagency Working Group (IWG) on Coal &amp;amp; Power Plant Communities &amp;amp; Economic Revitalization, U.S. Department of the Treasury. IRA Energy Community Data Layers.Disclaimer of Liability: This system is made available by an agency of the United States Government. Neither the United States Government, the Department of Energy, the National Energy Technology Laboratory, nor any of their employees, makes any warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.</gco:CharacterString>
+</mco:useLimitation>
+</mco:MD_Constraints>
+</mri:resourceConstraints>
+<mri:defaultLocale gco:nilReason="missing">
+</mri:defaultLocale>
+</mri:MD_DataIdentification>
+</mdb:identificationInfo>
+</mdb:MD_Metadata>

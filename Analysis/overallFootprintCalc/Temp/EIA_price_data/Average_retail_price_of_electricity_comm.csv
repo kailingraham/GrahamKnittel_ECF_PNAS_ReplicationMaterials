@@ -1,0 +1,192 @@
+"Average retail price of electricity"
+"https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=vvvvvvvvvvvvo&endsec=k&freq=A&start=2001&end=2021&ctype=map&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Wed Feb 15 2023 09:48:21 GMT-0500 (Eastern Standard Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+"Average retail price of electricity","cents per kilowatthour",,,,,,,,,,,,,,,,,,,,,,
+"United States","cents per kilowatthour","ELEC.PRICE.US-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"United States : all sectors","cents per kilowatthour","ELEC.PRICE.US-ALL.A",7.29,7.20,7.44,7.61,8.14,8.90,9.13,9.74,9.82,9.83,9.90,9.84,10.07,10.44,10.41,10.27,10.48,10.53,10.54,10.59,11.10
+"United States : commercial","cents per kilowatthour","ELEC.PRICE.US-COM.A",7.92,7.89,8.03,8.17,8.67,9.46,9.65,10.26,10.16,10.19,10.24,10.09,10.26,10.74,10.64,10.43,10.66,10.67,10.68,10.59,11.22
+"New England","cents per kilowatthour","ELEC.PRICE.NEW-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"New England : all sectors","cents per kilowatthour","ELEC.PRICE.NEW-ALL.A",10.86,10.03,10.42,10.61,11.95,14.51,15.08,16.06,15.65,14.89,14.49,14.02,14.47,15.45,16.52,16.13,16.58,17.63,17.76,17.73,18.03
+"New England : commercial","cents per kilowatthour","ELEC.PRICE.NEW-COM.A",10.93,9.85,10.32,10.61,11.94,14.52,14.71,15.77,15.21,14.72,14.31,13.68,13.97,14.70,15.46,15.18,15.48,16.46,16.33,15.84,16.34
+"Connecticut","cents per kilowatthour","ELEC.PRICE.CT-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Connecticut : all sectors","cents per kilowatthour","ELEC.PRICE.CT-ALL.A",9.62,9.71,10.16,10.26,12.06,14.83,16.45,17.80,18.07,17.38,16.35,15.54,15.66,17.05,17.77,17.24,17.55,18.41,18.66,19.13,18.32
+"Connecticut : commercial","cents per kilowatthour","ELEC.PRICE.CT-COM.A",9.26,9.32,9.93,9.90,11.53,14.03,15.39,17.12,16.87,16.45,15.57,14.65,14.63,15.55,15.97,15.75,16.06,16.76,16.75,16.58,16.46
+"Maine","cents per kilowatthour","ELEC.PRICE.ME-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Maine : all sectors","cents per kilowatthour","ELEC.PRICE.ME-ALL.A",10.55,10.35,9.79,9.69,10.57,11.80,14.59,13.80,13.12,12.84,12.58,11.81,11.86,12.65,12.78,12.80,13.02,13.44,14.04,13.54,13.96
+"Maine : commercial","cents per kilowatthour","ELEC.PRICE.ME-COM.A",11.64,10.68,10.34,9.89,10.63,12.42,12.94,12.95,12.60,12.51,12.29,11.53,11.74,12.70,12.47,12.08,12.12,12.51,12.83,12.56,12.90
+"Massachusetts","cents per kilowatthour","ELEC.PRICE.MA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Massachusetts : all sectors","cents per kilowatthour","ELEC.PRICE.MA-ALL.A",11.55,10.06,10.56,10.77,12.18,15.45,15.16,16.23,15.45,14.26,14.11,13.79,14.51,15.35,16.90,16.48,17.12,18.50,18.40,18.19,19.06
+"Massachusetts : commercial","cents per kilowatthour","ELEC.PRICE.MA-COM.A",11.64,10.02,10.48,10.99,12.42,15.54,15.20,16.07,15.37,14.53,14.33,13.84,14.23,14.68,15.79,15.60,15.93,17.17,16.80,16.03,16.99
+"New Hampshire","cents per kilowatthour","ELEC.PRICE.NH-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"New Hampshire : all sectors","cents per kilowatthour","ELEC.PRICE.NH-ALL.A",10.95,10.60,10.83,11.37,12.53,13.84,13.98,14.63,15.09,14.84,14.74,14.19,14.30,15.22,16.02,15.66,16.17,17.01,17.15,16.63,17.37
+"New Hampshire : commercial","cents per kilowatthour","ELEC.PRICE.NH-COM.A",10.53,10.06,10.30,10.99,12.06,14.07,13.91,14.30,14.36,14.25,14.04,13.36,13.52,14.34,14.96,14.43,14.81,15.81,15.93,15.41,16.13
+"Rhode Island","cents per kilowatthour","ELEC.PRICE.RI-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Rhode Island : all sectors","cents per kilowatthour","ELEC.PRICE.RI-ALL.A",11.45,9.20,10.47,10.96,11.97,13.98,13.12,16.04,14.22,14.07,13.04,12.74,13.72,15.41,17.01,16.28,16.42,18.10,18.49,18.54,18.44
+"Rhode Island : commercial","cents per kilowatthour","ELEC.PRICE.RI-COM.A",11.54,8.65,10.09,10.53,11.71,13.51,12.67,15.40,13.66,13.10,12.37,11.87,12.92,14.56,15.78,14.88,15.20,16.58,16.38,15.94,15.51
+"Vermont","cents per kilowatthour","ELEC.PRICE.VT-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Vermont : all sectors","cents per kilowatthour","ELEC.PRICE.VT-ALL.A",10.86,10.87,10.98,11.02,10.95,11.37,12.04,12.33,12.75,13.24,13.80,14.22,14.61,14.57,14.41,14.46,14.60,15.13,15.36,16.33,16.34
+"Vermont : commercial","cents per kilowatthour","ELEC.PRICE.VT-COM.A",11.28,11.10,11.29,11.42,11.33,11.67,12.29,12.49,12.93,13.44,14.00,14.32,14.66,14.56,14.54,14.54,14.61,15.24,15.98,16.39,16.59
+"Middle Atlantic","cents per kilowatthour","ELEC.PRICE.MAT-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Middle Atlantic : all sectors","cents per kilowatthour","ELEC.PRICE.MAT-ALL.A",9.74,9.58,10.09,10.29,11.07,11.92,12.31,13.17,12.92,13.60,13.37,12.75,12.85,13.41,13.00,12.56,12.63,12.63,12.35,12.56,13.22
+"Middle Atlantic : commercial","cents per kilowatthour","ELEC.PRICE.MAT-COM.A",10.64,10.30,10.79,10.98,11.79,12.70,13.22,13.99,13.37,13.93,13.65,12.97,13.06,13.65,13.13,12.48,12.57,12.43,12.21,12.47,13.37
+"New Jersey","cents per kilowatthour","ELEC.PRICE.NJ-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"New Jersey : all sectors","cents per kilowatthour","ELEC.PRICE.NJ-ALL.A",9.36,9.30,9.48,10.29,10.89,11.88,13.01,14.43,14.53,14.68,14.30,13.68,13.69,13.95,13.74,13.38,13.32,13.23,13.42,13.63,14.01
+"New Jersey : commercial","cents per kilowatthour","ELEC.PRICE.NJ-COM.A",9.09,8.90,9.11,9.96,10.61,11.62,12.99,14.03,13.84,13.89,13.47,12.78,12.77,13.15,12.79,12.26,12.28,12.21,12.23,12.35,12.69
+"New York","cents per kilowatthour","ELEC.PRICE.NY-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"New York : all sectors","cents per kilowatthour","ELEC.PRICE.NY-ALL.A",11.55,11.16,12.44,12.55,13.95,15.27,15.22,16.47,15.44,16.41,15.89,15.15,15.44,16.25,15.28,14.47,14.74,14.83,14.34,14.87,16.11
+"New York : commercial","cents per kilowatthour","ELEC.PRICE.NY-COM.A",12.87,12.33,12.93,12.98,14.36,15.51,15.92,16.79,15.48,16.31,15.81,15.06,15.35,16.12,15.31,14.45,14.75,14.50,14.06,14.56,16.07
+"Pennsylvania","cents per kilowatthour","ELEC.PRICE.PA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Pennsylvania : all sectors","cents per kilowatthour","ELEC.PRICE.PA-ALL.A",8.01,8.06,8.02,8.00,8.27,8.68,9.08,9.33,9.60,10.31,10.45,9.91,9.81,10.28,10.31,10.19,10.13,10.10,9.81,9.70,9.97
+"Pennsylvania : commercial","cents per kilowatthour","ELEC.PRICE.PA-COM.A",8.62,8.50,8.62,8.51,8.50,8.94,9.20,9.39,9.55,10.10,10.03,9.44,9.25,9.73,9.60,9.22,8.98,8.94,8.71,8.50,8.91
+"East North Central","cents per kilowatthour","ELEC.PRICE.ENC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"East North Central : all sectors","cents per kilowatthour","ELEC.PRICE.ENC-ALL.A",6.46,6.56,6.53,6.64,6.91,7.45,7.97,8.53,8.91,9.08,9.22,9.27,9.40,9.85,9.89,9.94,10.12,10.17,10.13,10.28,10.69
+"East North Central : commercial","cents per kilowatthour","ELEC.PRICE.ENC-COM.A",7.23,7.33,7.22,7.40,7.65,8.15,8.49,9.04,9.21,9.36,9.49,9.46,9.58,10.02,9.95,9.96,10.16,10.19,10.20,10.27,10.66
+"Illinois","cents per kilowatthour","ELEC.PRICE.IL-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Illinois : all sectors","cents per kilowatthour","ELEC.PRICE.IL-ALL.A",6.90,6.94,6.86,6.80,6.95,7.07,8.46,9.23,9.15,9.13,8.97,8.40,8.26,9.36,9.40,9.38,9.49,9.60,9.56,9.75,10.14
+"Illinois : commercial","cents per kilowatthour","ELEC.PRICE.IL-COM.A",7.40,7.52,7.30,7.54,7.75,7.95,8.57,9.25,9.04,8.88,8.64,7.99,8.14,9.26,9.02,9.02,9.09,9.12,9.08,9.15,9.65
+"Indiana","cents per kilowatthour","ELEC.PRICE.IN-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Indiana : all sectors","cents per kilowatthour","ELEC.PRICE.IN-ALL.A",5.30,5.34,5.37,5.58,5.88,6.46,6.50,7.09,7.62,7.67,8.01,8.29,8.73,9.06,8.99,9.22,9.77,9.75,9.91,9.92,10.36
+"Indiana : commercial","cents per kilowatthour","ELEC.PRICE.IN-COM.A",5.29,5.98,6.12,6.31,6.57,7.21,7.29,7.82,8.32,8.38,8.77,9.14,9.60,9.96,9.78,10.01,10.54,10.60,11.03,11.21,11.58
+"Michigan","cents per kilowatthour","ELEC.PRICE.MI-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Michigan : all sectors","cents per kilowatthour","ELEC.PRICE.MI-ALL.A",6.97,7.09,6.85,6.94,7.23,8.14,8.53,8.93,9.40,9.88,10.40,10.98,11.21,11.03,10.76,11.05,11.28,11.40,11.56,12.21,12.93
+"Michigan : commercial","cents per kilowatthour","ELEC.PRICE.MI-COM.A",7.54,7.79,7.55,7.57,7.84,8.51,8.77,9.17,9.24,9.81,10.33,10.93,11.06,10.87,10.55,10.64,11.00,11.15,11.39,11.71,12.31
+"Ohio","cents per kilowatthour","ELEC.PRICE.OH-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Ohio : all sectors","cents per kilowatthour","ELEC.PRICE.OH-ALL.A",6.62,6.77,6.73,6.89,7.08,7.71,7.91,8.39,9.02,9.14,9.03,9.12,9.20,9.73,9.98,9.84,9.84,9.94,9.58,9.44,9.76
+"Ohio : commercial","cents per kilowatthour","ELEC.PRICE.OH-COM.A",8.46,7.81,7.55,7.75,7.93,8.44,8.67,9.23,9.65,9.73,9.63,9.47,9.35,9.83,10.07,9.97,10.05,10.11,9.72,9.53,9.75
+"Wisconsin","cents per kilowatthour","ELEC.PRICE.WI-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Wisconsin : all sectors","cents per kilowatthour","ELEC.PRICE.WI-ALL.A",6.08,6.28,6.64,6.88,7.48,8.13,8.48,9.00,9.38,9.78,10.21,10.28,10.51,10.57,10.73,10.67,10.76,10.58,10.66,10.82,11.01
+"Wisconsin : commercial","cents per kilowatthour","ELEC.PRICE.WI-COM.A",6.34,6.54,6.97,7.24,7.67,8.37,8.71,9.28,9.57,9.98,10.42,10.51,10.74,10.77,10.89,10.77,10.87,10.67,10.72,10.75,10.95
+"West North Central","cents per kilowatthour","ELEC.PRICE.WNC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"West North Central : all sectors","cents per kilowatthour","ELEC.PRICE.WNC-ALL.A",5.99,5.96,6.03,6.17,6.37,6.65,6.83,7.13,7.57,7.93,8.26,8.54,8.98,9.12,9.29,9.59,9.77,9.81,9.69,9.69,9.90
+"West North Central : commercial","cents per kilowatthour","ELEC.PRICE.WNC-COM.A",6.05,6.01,6.02,6.16,6.33,6.62,6.79,7.13,7.43,7.87,8.23,8.48,8.98,9.25,9.27,9.54,9.81,9.79,9.66,9.65,9.97
+"Iowa","cents per kilowatthour","ELEC.PRICE.IA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Iowa : all sectors","cents per kilowatthour","ELEC.PRICE.IA-ALL.A",6.14,6.01,6.11,6.40,6.69,7.01,6.83,6.89,7.37,7.66,7.56,7.71,8.07,8.15,8.35,8.55,8.73,8.92,9.08,8.97,9.13
+"Iowa : commercial","cents per kilowatthour","ELEC.PRICE.IA-COM.A",6.69,6.56,6.24,6.75,6.95,7.29,7.11,7.18,7.55,7.91,7.85,8.01,8.44,8.67,8.92,9.17,9.46,9.68,9.99,9.96,10.17
+"Kansas","cents per kilowatthour","ELEC.PRICE.KS-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Kansas : all sectors","cents per kilowatthour","ELEC.PRICE.KS-ALL.A",6.24,6.31,6.35,6.37,6.55,6.89,6.84,7.45,7.98,8.35,8.89,9.33,9.72,10.16,10.14,10.49,10.60,10.72,10.26,10.38,10.47
+"Kansas : commercial","cents per kilowatthour","ELEC.PRICE.KS-COM.A",6.20,6.28,6.42,6.45,6.60,6.96,6.83,7.44,7.87,8.25,8.78,9.24,9.68,10.13,10.10,10.47,10.59,10.66,10.29,10.40,10.52
+"Minnesota","cents per kilowatthour","ELEC.PRICE.MN-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Minnesota : all sectors","cents per kilowatthour","ELEC.PRICE.MN-ALL.A",5.97,5.80,6.01,6.24,6.61,6.98,7.44,7.79,8.14,8.41,8.65,8.86,9.41,9.52,9.53,9.99,10.27,10.37,10.33,10.57,11.08
+"Minnesota : commercial","cents per kilowatthour","ELEC.PRICE.MN-COM.A",6.03,5.88,6.12,6.31,6.59,7.02,7.48,7.88,7.92,8.38,8.63,8.84,9.42,9.85,9.44,9.86,10.48,10.38,10.34,10.43,11.22
+"Missouri","cents per kilowatthour","ELEC.PRICE.MO-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Missouri : all sectors","cents per kilowatthour","ELEC.PRICE.MO-ALL.A",6.03,6.09,6.02,6.07,6.13,6.30,6.56,6.84,7.35,7.78,8.32,8.53,9.04,9.11,9.44,9.74,10.03,9.93,9.68,9.64,9.85
+"Missouri : commercial","cents per kilowatthour","ELEC.PRICE.MO-COM.A",5.89,5.88,5.78,5.80,5.92,6.08,6.34,6.61,6.96,7.50,8.04,8.20,8.80,8.90,9.16,9.26,9.47,9.40,9.07,8.93,9.17
+"Nebraska","cents per kilowatthour","ELEC.PRICE.NE-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Nebraska : all sectors","cents per kilowatthour","ELEC.PRICE.NE-ALL.A",5.39,5.55,5.64,5.70,5.87,6.07,6.28,6.58,7.21,7.52,7.88,8.37,8.74,8.84,8.91,9.05,9.08,9.02,9.08,8.97,8.84
+"Nebraska : commercial","cents per kilowatthour","ELEC.PRICE.NE-COM.A",5.48,5.62,5.81,5.84,5.98,6.19,6.39,6.68,7.33,7.63,7.99,8.38,8.60,8.73,8.67,8.80,8.85,8.83,8.85,8.89,8.81
+"North Dakota","cents per kilowatthour","ELEC.PRICE.ND-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"North Dakota : all sectors","cents per kilowatthour","ELEC.PRICE.ND-ALL.A",5.48,5.45,5.47,5.69,5.92,6.21,6.42,6.69,6.63,7.11,7.50,7.83,8.20,8.41,8.75,8.94,8.78,8.91,8.85,8.53,8.65
+"North Dakota : commercial","cents per kilowatthour","ELEC.PRICE.ND-COM.A",5.99,5.85,5.64,5.86,6.11,6.30,6.58,6.81,6.81,7.21,7.61,8.02,8.39,8.79,8.83,9.15,9.19,9.10,9.01,9.02,9.17
+"South Dakota","cents per kilowatthour","ELEC.PRICE.SD-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"South Dakota : all sectors","cents per kilowatthour","ELEC.PRICE.SD-ALL.A",6.35,6.26,6.35,6.44,6.60,6.70,6.89,7.14,7.39,7.82,8.05,8.49,8.86,9.05,9.47,9.83,10.05,9.97,9.96,10.06,10.43
+"South Dakota : commercial","cents per kilowatthour","ELEC.PRICE.SD-COM.A",6.55,6.24,6.04,6.18,6.20,6.47,6.61,6.97,7.14,7.55,7.76,8.10,8.51,8.89,9.16,9.58,9.74,9.62,9.59,9.65,10.15
+"South Atlantic","cents per kilowatthour","ELEC.PRICE.SAT-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"South Atlantic : all sectors","cents per kilowatthour","ELEC.PRICE.SAT-ALL.A",6.68,6.56,6.77,7.05,7.59,8.42,8.68,9.33,9.87,9.61,9.74,9.73,9.75,10.07,9.97,9.79,9.96,9.90,10.02,9.84,10.12
+"South Atlantic : commercial","cents per kilowatthour","ELEC.PRICE.SAT-COM.A",6.60,6.45,6.70,6.96,7.49,8.46,8.66,9.31,9.61,9.29,9.46,9.37,9.38,9.68,9.49,9.24,9.39,9.30,9.36,9.05,9.41
+"Delaware","cents per kilowatthour","ELEC.PRICE.DE-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Delaware : all sectors","cents per kilowatthour","ELEC.PRICE.DE-ALL.A",6.80,6.91,6.96,7.53,7.76,10.13,11.35,12.38,12.20,11.97,11.48,11.06,10.90,11.22,11.17,11.09,10.90,10.55,10.52,10.24,10.50
+"Delaware : commercial","cents per kilowatthour","ELEC.PRICE.DE-COM.A",7.00,7.15,7.31,7.44,7.60,10.21,11.21,12.09,12.03,11.36,10.64,10.13,10.20,10.50,10.25,10.07,9.89,9.65,9.53,9.18,9.48
+"District Of Columbia","cents per kilowatthour","ELEC.PRICE.DC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"District Of Columbia : all sectors","cents per kilowatthour","ELEC.PRICE.DC-ALL.A",7.40,7.34,7.40,7.47,9.18,11.08,11.79,13.18,13.23,13.35,12.81,11.85,11.85,12.11,12.07,11.73,11.80,12.03,12.27,11.90,12.81
+"District Of Columbia : commercial","cents per kilowatthour","ELEC.PRICE.DC-COM.A",7.45,7.32,7.35,7.45,9.13,11.17,12.01,13.30,13.26,13.42,12.90,12.02,11.94,12.19,12.01,11.72,11.66,11.97,12.26,11.85,13.00
+"Florida","cents per kilowatthour","ELEC.PRICE.FL-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Florida : all sectors","cents per kilowatthour","ELEC.PRICE.FL-ALL.A",7.67,7.31,7.72,8.16,8.76,10.45,10.33,10.74,11.49,10.58,10.61,10.44,10.22,10.77,10.49,9.91,10.42,10.32,10.44,10.06,10.67
+"Florida : commercial","cents per kilowatthour","ELEC.PRICE.FL-COM.A",7.08,6.64,7.13,7.61,8.16,9.91,9.75,10.14,10.77,9.76,9.85,9.66,9.39,9.87,9.50,8.90,9.35,9.19,9.27,8.85,9.51
+"Georgia","cents per kilowatthour","ELEC.PRICE.GA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Georgia : all sectors","cents per kilowatthour","ELEC.PRICE.GA-ALL.A",6.39,6.24,6.32,6.58,7.43,7.63,7.86,8.84,8.81,8.87,9.61,9.37,9.69,10.03,9.62,9.59,9.83,9.62,9.86,9.93,10.43
+"Georgia : commercial","cents per kilowatthour","ELEC.PRICE.GA-COM.A",6.61,6.46,6.66,6.88,7.67,7.81,8.07,9.07,8.94,9.06,9.87,9.58,9.99,10.36,9.89,9.81,10.09,9.79,10.02,10.08,10.61
+"Maryland","cents per kilowatthour","ELEC.PRICE.MD-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Maryland : all sectors","cents per kilowatthour","ELEC.PRICE.MD-ALL.A",6.60,6.18,6.45,7.15,8.13,9.95,11.50,13.01,13.09,12.71,11.93,11.28,11.66,12.10,12.07,12.21,11.98,11.57,11.24,11.15,11.48
+"Maryland : commercial","cents per kilowatthour","ELEC.PRICE.MD-COM.A",6.36,6.31,6.95,7.56,8.97,10.56,11.58,12.77,11.98,11.75,11.28,10.43,10.68,11.15,11.00,10.99,10.75,10.43,9.97,9.72,10.26
+"North Carolina","cents per kilowatthour","ELEC.PRICE.NC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"North Carolina : all sectors","cents per kilowatthour","ELEC.PRICE.NC-ALL.A",6.58,6.74,6.86,6.97,7.19,7.53,7.83,7.96,8.48,8.67,8.64,9.15,9.24,9.33,9.37,9.20,9.04,9.25,9.45,9.43,9.29
+"North Carolina : commercial","cents per kilowatthour","ELEC.PRICE.NC-COM.A",6.42,6.51,6.65,6.70,6.86,7.17,7.43,7.55,7.98,8.16,8.13,8.66,8.76,8.75,8.73,8.62,8.44,8.58,8.81,8.69,8.50
+"South Carolina","cents per kilowatthour","ELEC.PRICE.SC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"South Carolina : all sectors","cents per kilowatthour","ELEC.PRICE.SC-ALL.A",5.77,5.83,6.08,6.22,6.72,6.98,7.18,7.85,8.42,8.49,8.80,9.10,9.24,9.67,9.58,9.79,9.97,9.67,10.02,9.90,9.96
+"South Carolina : commercial","cents per kilowatthour","ELEC.PRICE.SC-COM.A",6.45,6.48,6.81,6.91,7.39,7.60,7.74,8.42,8.74,8.90,9.30,9.63,9.88,10.28,10.21,10.28,10.57,10.11,10.58,10.35,10.67
+"Virginia","cents per kilowatthour","ELEC.PRICE.VA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Virginia : all sectors","cents per kilowatthour","ELEC.PRICE.VA-ALL.A",6.18,6.23,6.27,6.43,6.64,6.86,7.12,8.00,8.93,8.69,8.84,9.07,8.96,9.17,9.31,9.09,9.18,9.48,9.52,9.16,9.14
+"Virginia : commercial","cents per kilowatthour","ELEC.PRICE.VA-COM.A",5.85,5.87,5.74,5.88,6.05,6.21,6.38,7.32,8.06,7.65,7.95,8.08,8.00,8.15,8.21,7.93,8.01,8.32,8.18,7.63,7.79
+"West Virginia","cents per kilowatthour","ELEC.PRICE.WV-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"West Virginia : all sectors","cents per kilowatthour","ELEC.PRICE.WV-ALL.A",5.07,5.11,5.13,5.13,5.15,5.04,5.34,5.61,6.65,7.45,7.88,8.14,7.91,7.65,8.11,8.98,9.00,8.72,8.49,8.75,8.87
+"West Virginia : commercial","cents per kilowatthour","ELEC.PRICE.WV-COM.A",5.44,5.41,5.45,5.46,5.53,5.59,5.85,6.08,6.77,7.66,8.14,8.42,8.17,7.99,8.61,9.35,9.58,9.24,9.16,9.40,9.50
+"East South Central","cents per kilowatthour","ELEC.PRICE.ESC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"East South Central : all sectors","cents per kilowatthour","ELEC.PRICE.ESC-ALL.A",5.33,5.39,5.55,5.83,6.17,6.78,7.01,7.87,8.13,8.16,8.58,8.58,8.71,9.08,9.06,9.04,9.29,9.29,9.40,9.32,9.69
+"East South Central : commercial","cents per kilowatthour","ELEC.PRICE.ESC-COM.A",6.25,6.33,6.52,6.89,7.19,7.90,8.07,9.07,9.26,9.34,9.80,9.87,9.81,10.34,10.24,10.20,10.60,10.52,10.74,10.73,11.07
+"Alabama","cents per kilowatthour","ELEC.PRICE.AL-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Alabama : all sectors","cents per kilowatthour","ELEC.PRICE.AL-ALL.A",5.60,5.71,5.88,6.08,6.46,7.07,7.57,8.59,8.83,8.89,9.10,9.18,9.02,9.27,9.33,9.56,9.83,9.63,9.83,9.84,10.18
+"Alabama : commercial","cents per kilowatthour","ELEC.PRICE.AL-COM.A",6.53,6.63,6.85,7.12,7.50,8.18,8.70,9.87,10.05,10.18,10.47,10.63,10.51,10.79,10.83,11.11,11.60,11.24,11.52,11.55,11.84
+"Kentucky","cents per kilowatthour","ELEC.PRICE.KY-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Kentucky : all sectors","cents per kilowatthour","ELEC.PRICE.KY-ALL.A",4.24,4.26,4.42,4.63,5.01,5.43,5.84,6.26,6.52,6.73,7.17,7.26,7.69,8.15,8.14,8.42,8.57,8.52,8.61,8.58,9.12
+"Kentucky : commercial","cents per kilowatthour","ELEC.PRICE.KY-COM.A",5.20,5.30,5.37,5.60,6.01,6.44,6.76,7.29,7.63,7.88,8.49,8.73,8.56,9.44,9.44,9.57,9.85,9.74,10.15,10.34,10.75
+"Mississippi","cents per kilowatthour","ELEC.PRICE.MS-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Mississippi : all sectors","cents per kilowatthour","ELEC.PRICE.MS-ALL.A",6.26,6.24,6.46,7.00,7.54,8.33,8.03,8.99,8.85,8.59,8.78,8.60,9.11,9.60,9.53,8.67,9.09,9.24,9.28,9.13,9.50
+"Mississippi : commercial","cents per kilowatthour","ELEC.PRICE.MS-COM.A",6.94,6.83,7.25,7.99,8.48,9.37,8.92,10.02,9.50,9.32,9.48,9.33,10.10,10.76,10.55,9.57,10.17,10.43,10.52,10.38,10.81
+"Tennessee","cents per kilowatthour","ELEC.PRICE.TN-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Tennessee : all sectors","cents per kilowatthour","ELEC.PRICE.TN-ALL.A",5.59,5.72,5.84,6.14,6.31,6.97,7.07,8.18,8.69,8.61,9.28,9.27,9.13,9.40,9.30,9.23,9.45,9.58,9.69,9.52,9.78
+"Tennessee : commercial","cents per kilowatthour","ELEC.PRICE.TN-COM.A",6.31,6.45,6.68,7.05,7.17,8.00,8.09,9.24,9.61,9.66,10.27,10.31,10.00,10.38,10.16,10.19,10.55,10.51,10.65,10.56,10.87
+"West South Central","cents per kilowatthour","ELEC.PRICE.WSC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"West South Central : all sectors","cents per kilowatthour","ELEC.PRICE.WSC-ALL.A",7.07,6.33,7.13,7.47,8.48,9.42,9.27,10.13,8.94,8.74,8.54,8.11,8.42,8.65,8.41,8.19,8.26,8.27,8.36,8.17,9.03
+"West South Central : commercial","cents per kilowatthour","ELEC.PRICE.WSC-COM.A",7.46,6.69,7.44,7.54,8.43,9.26,9.26,10.12,8.94,8.78,8.56,7.99,8.11,8.26,8.18,8.23,8.34,8.21,8.20,7.82,8.94
+"Arkansas","cents per kilowatthour","ELEC.PRICE.AR-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Arkansas : all sectors","cents per kilowatthour","ELEC.PRICE.AR-ALL.A",6.05,5.61,5.57,5.67,6.30,6.99,6.96,7.60,7.57,7.28,7.43,7.62,7.93,7.90,8.19,8.13,8.26,7.78,8.22,8.32,9.10
+"Arkansas : commercial","cents per kilowatthour","ELEC.PRICE.AR-COM.A",6.19,5.68,5.54,5.64,6.18,6.96,6.91,7.61,7.56,7.31,7.50,7.71,8.05,8.05,8.32,8.23,8.51,7.75,8.78,8.61,9.56
+"Louisiana","cents per kilowatthour","ELEC.PRICE.LA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Louisiana : all sectors","cents per kilowatthour","ELEC.PRICE.LA-ALL.A",6.96,5.99,6.93,7.13,8.03,8.30,8.39,9.44,7.06,7.80,7.68,6.90,8.04,8.09,7.65,7.46,7.79,7.71,7.71,7.51,8.82
+"Louisiana : commercial","cents per kilowatthour","ELEC.PRICE.LA-COM.A",7.58,6.64,7.42,7.58,8.56,9.03,9.13,10.12,7.69,8.50,8.44,7.75,8.96,9.10,8.66,8.59,8.95,8.85,8.91,8.85,10.23
+"Oklahoma","cents per kilowatthour","ELEC.PRICE.OK-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Oklahoma : all sectors","cents per kilowatthour","ELEC.PRICE.OK-ALL.A",6.10,5.59,6.35,6.50,6.85,7.30,7.29,7.81,6.94,7.59,7.80,7.54,7.86,8.18,7.90,7.83,8.20,8.09,7.86,7.63,8.52
+"Oklahoma : commercial","cents per kilowatthour","ELEC.PRICE.OK-COM.A",6.35,5.75,6.38,6.55,7.00,7.34,7.33,7.88,6.76,7.45,7.60,7.32,7.77,8.09,7.68,7.66,8.11,8.07,7.98,7.82,8.70
+"Texas","cents per kilowatthour","ELEC.PRICE.TX-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Texas : all sectors","cents per kilowatthour","ELEC.PRICE.TX-ALL.A",7.38,6.62,7.50,7.95,9.14,10.34,10.11,10.99,9.86,9.34,9.00,8.55,8.66,8.94,8.70,8.43,8.38,8.48,8.60,8.36,9.14
+"Texas : commercial","cents per kilowatthour","ELEC.PRICE.TX-COM.A",7.74,6.95,7.84,7.90,8.85,9.85,9.87,10.75,9.66,9.19,8.83,8.16,8.02,8.16,8.15,8.26,8.26,8.16,8.06,7.60,8.72
+"Mountain","cents per kilowatthour","ELEC.PRICE.MTN-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Mountain : all sectors","cents per kilowatthour","ELEC.PRICE.MTN-ALL.A",6.44,6.52,6.71,6.86,7.26,7.46,7.69,8.18,8.41,8.59,8.63,8.82,9.18,9.42,9.48,9.31,9.51,9.48,9.39,9.40,9.70
+"Mountain : commercial","cents per kilowatthour","ELEC.PRICE.MTN-COM.A",6.53,6.63,6.84,7.06,7.37,7.58,7.77,8.36,8.53,8.75,8.86,8.99,9.35,9.65,9.71,9.49,9.61,9.56,9.56,9.46,9.71
+"Arizona","cents per kilowatthour","ELEC.PRICE.AZ-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Arizona : all sectors","cents per kilowatthour","ELEC.PRICE.AZ-ALL.A",7.27,7.21,7.34,7.45,7.79,8.24,8.54,9.11,9.56,9.69,9.71,9.81,10.14,10.18,10.34,10.33,10.64,10.85,10.52,10.44,10.73
+"Arizona : commercial","cents per kilowatthour","ELEC.PRICE.AZ-COM.A",7.37,7.28,7.09,7.28,7.40,8.02,8.27,8.93,9.35,9.47,9.50,9.53,9.85,10.13,10.39,10.41,10.50,10.64,10.25,10.11,10.33
+"Colorado","cents per kilowatthour","ELEC.PRICE.CO-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Colorado : all sectors","cents per kilowatthour","ELEC.PRICE.CO-ALL.A",6.02,6.00,6.77,6.95,7.64,7.61,7.76,8.59,8.31,9.15,9.39,9.39,9.88,10.06,9.94,9.83,9.99,10.02,10.17,10.27,10.90
+"Colorado : commercial","cents per kilowatthour","ELEC.PRICE.CO-COM.A",5.67,5.67,6.60,6.89,7.62,7.50,7.62,8.57,8.15,9.13,9.44,9.39,9.86,10.08,9.88,9.60,9.89,10.02,10.43,10.29,10.84
+"Idaho","cents per kilowatthour","ELEC.PRICE.ID-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Idaho : all sectors","cents per kilowatthour","ELEC.PRICE.ID-ALL.A",4.92,5.58,5.22,4.97,5.12,4.92,5.07,5.69,6.51,6.54,6.44,6.92,7.57,7.93,8.09,8.08,8.26,8.17,7.89,7.99,8.17
+"Idaho : commercial","cents per kilowatthour","ELEC.PRICE.ID-COM.A",5.13,5.71,5.56,5.37,5.42,5.16,5.14,5.72,6.49,6.64,6.41,6.86,7.37,7.78,7.80,7.76,7.98,7.93,7.67,7.75,7.89
+"Montana","cents per kilowatthour","ELEC.PRICE.MT-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Montana : all sectors","cents per kilowatthour","ELEC.PRICE.MT-ALL.A",6.48,5.70,6.14,6.40,6.72,6.91,7.13,7.72,7.58,7.84,8.23,8.25,8.58,8.59,8.90,8.84,8.92,8.84,9.02,9.13,9.50
+"Montana : commercial","cents per kilowatthour","ELEC.PRICE.MT-COM.A",5.91,6.28,6.85,7.42,7.43,7.44,8.10,8.54,8.32,8.55,9.12,9.13,9.54,9.64,10.23,10.19,10.12,10.11,10.41,10.51,10.54
+"Nevada","cents per kilowatthour","ELEC.PRICE.NV-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Nevada : all sectors","cents per kilowatthour","ELEC.PRICE.NV-ALL.A",7.86,8.42,8.29,8.56,9.02,9.63,9.99,9.89,10.36,9.73,8.97,8.95,9.03,9.73,9.48,8.38,8.76,8.67,8.78,8.33,8.58
+"Nevada : commercial","cents per kilowatthour","ELEC.PRICE.NV-COM.A",8.45,9.06,8.79,9.08,9.48,10.12,10.09,10.07,10.64,9.79,9.05,8.83,9.01,9.47,9.25,7.93,7.96,7.74,8.04,7.45,7.77
+"New Mexico","cents per kilowatthour","ELEC.PRICE.NM-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"New Mexico : all sectors","cents per kilowatthour","ELEC.PRICE.NM-ALL.A",7.16,6.73,7.00,7.10,7.51,7.37,7.44,8.35,8.09,8.40,8.74,8.83,9.25,9.65,9.62,9.12,9.59,9.35,8.99,9.33,9.79
+"New Mexico : commercial","cents per kilowatthour","ELEC.PRICE.NM-COM.A",7.50,7.22,7.36,7.39,7.81,7.61,7.66,8.67,8.40,8.57,9.07,9.32,9.74,10.27,10.30,9.75,10.19,10.02,9.79,10.28,10.80
+"Utah","cents per kilowatthour","ELEC.PRICE.UT-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Utah : all sectors","cents per kilowatthour","ELEC.PRICE.UT-ALL.A",5.21,5.39,5.41,5.69,5.92,5.99,6.41,6.49,6.77,6.94,7.13,7.84,8.15,8.35,8.54,8.72,8.60,8.21,8.24,8.27,8.34
+"Utah : commercial","cents per kilowatthour","ELEC.PRICE.UT-COM.A",5.58,5.60,5.59,5.90,6.07,6.15,6.54,6.66,6.96,7.15,7.35,8.06,8.32,8.53,8.62,8.75,8.64,8.23,8.26,8.27,8.13
+"Wyoming","cents per kilowatthour","ELEC.PRICE.WY-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Wyoming : all sectors","cents per kilowatthour","ELEC.PRICE.WY-ALL.A",4.46,4.68,4.76,4.98,5.16,5.27,5.29,5.67,6.08,6.20,6.58,7.19,7.55,7.76,7.97,8.19,8.28,8.09,8.10,8.27,8.25
+"Wyoming : commercial","cents per kilowatthour","ELEC.PRICE.WY-COM.A",5.41,5.71,5.74,5.98,6.17,6.28,6.25,6.71,7.28,7.42,7.72,8.24,8.57,8.88,9.12,9.40,9.70,9.58,9.64,9.65,9.68
+"Pacific Contiguous","cents per kilowatthour","ELEC.PRICE.PCC-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Pacific Contiguous : all sectors","cents per kilowatthour","ELEC.PRICE.PCC-ALL.A",9.26,10.11,9.83,9.55,9.74,10.62,10.71,10.57,11.04,10.92,11.01,11.38,11.94,12.55,12.82,12.75,13.28,13.66,13.79,14.63,15.70
+"Pacific Contiguous : commercial","cents per kilowatthour","ELEC.PRICE.PCC-COM.A",10.23,11.41,10.69,10.19,10.42,11.22,11.19,11.04,11.59,11.58,11.61,11.92,12.49,13.60,13.71,13.27,13.76,14.20,14.42,15.07,16.23
+"California","cents per kilowatthour","ELEC.PRICE.CA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"California : all sectors","cents per kilowatthour","ELEC.PRICE.CA-ALL.A",11.22,12.19,11.78,11.35,11.63,12.82,12.80,12.49,13.24,13.01,13.05,13.53,14.30,15.15,15.42,15.23,16.06,16.58,16.89,18.00,19.65
+"California : commercial","cents per kilowatthour","ELEC.PRICE.CA-COM.A",12.15,13.36,12.48,11.64,11.92,12.90,12.82,12.54,13.27,13.09,13.05,13.41,14.20,15.62,15.73,15.07,15.76,16.34,16.67,17.53,19.18
+"Oregon","cents per kilowatthour","ELEC.PRICE.OR-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Oregon : all sectors","cents per kilowatthour","ELEC.PRICE.OR-ALL.A",5.44,6.32,6.18,6.21,6.34,6.53,7.02,7.24,7.47,7.56,8.04,8.21,8.44,8.68,8.75,8.83,8.81,8.85,8.81,8.82,8.95
+"Oregon : commercial","cents per kilowatthour","ELEC.PRICE.OR-COM.A",5.45,6.59,6.38,6.45,6.51,6.77,7.20,7.29,7.50,7.59,8.15,8.31,8.68,8.75,8.80,8.91,8.86,8.91,8.85,9.00,9.10
+"Washington","cents per kilowatthour","ELEC.PRICE.WA-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Washington : all sectors","cents per kilowatthour","ELEC.PRICE.WA-ALL.A",5.34,5.88,5.86,5.80,5.87,6.14,6.37,6.55,6.59,6.66,6.78,6.94,7.09,7.13,7.40,7.68,7.94,8.00,8.04,8.33,8.75
+"Washington : commercial","cents per kilowatthour","ELEC.PRICE.WA-COM.A",5.45,6.11,6.07,6.17,6.33,6.63,6.55,6.77,6.97,7.37,7.49,7.68,7.78,7.97,8.22,8.43,8.57,8.72,8.75,8.92,9.14
+"Pacific Noncontiguous","cents per kilowatthour","ELEC.PRICE.PCN-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Pacific Noncontiguous : all sectors","cents per kilowatthour","ELEC.PRICE.PCN-ALL.A",12.79,12.35,13.09,14.05,15.96,17.82,18.29,23.73,18.87,21.14,25.57,26.96,26.59,27.13,22.80,21.53,23.28,25.35,25.48,24.44,26.19
+"Pacific Noncontiguous : commercial","cents per kilowatthour","ELEC.PRICE.PCN-COM.A",12.90,12.46,13.15,14.02,15.76,17.18,17.58,22.50,18.48,20.45,24.45,25.50,25.49,26.29,22.51,21.33,23.09,24.62,24.86,24.13,25.48
+"Alaska","cents per kilowatthour","ELEC.PRICE.AK-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Alaska : all sectors","cents per kilowatthour","ELEC.PRICE.AK-ALL.A",10.54,10.46,10.50,10.99,11.72,12.84,13.28,14.74,15.09,14.76,16.08,16.33,16.49,17.46,17.59,17.93,19.10,19.36,20.22,19.82,20.02
+"Alaska : commercial","cents per kilowatthour","ELEC.PRICE.AK-COM.A",10.29,10.13,10.49,10.99,11.56,11.93,12.19,13.64,14.46,13.95,15.10,14.93,15.58,17.09,17.44,17.56,18.89,18.58,19.80,19.58,19.61
+"Hawaii","cents per kilowatthour","ELEC.PRICE.HI-ALL.A",,,,,,,,,,,,,,,,,,,,,
+"Hawaii : all sectors","cents per kilowatthour","ELEC.PRICE.HI-ALL.A",14.05,13.39,14.47,15.70,18.33,20.72,21.29,29.20,21.21,25.12,31.59,34.04,33.26,33.43,26.17,23.87,26.05,29.18,28.72,27.55,30.31
+"Hawaii : commercial","cents per kilowatthour","ELEC.PRICE.HI-COM.A",14.81,14.11,15.02,16.19,19.04,21.42,21.91,29.72,21.86,25.93,32.37,34.88,34.05,34.21,26.93,24.64,26.77,29.90,29.23,28.41,30.88

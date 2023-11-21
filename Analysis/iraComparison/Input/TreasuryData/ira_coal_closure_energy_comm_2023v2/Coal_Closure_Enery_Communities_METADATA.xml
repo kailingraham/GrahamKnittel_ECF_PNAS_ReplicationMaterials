@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Coal Closure Energy Communities</title>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This geospatial dataset identifies U.S. census tracts and directly adjoining tracts that have had coal mine closures since 1999 or coal-fired electric generating unit retirements since 2009. These census tracts qualify as energy communities.Additional information on energy communities and related tax credits can be accessed on the Interagency Working Group on Coal &amp;amp; Power Plant Communities &amp;amp; Economic Revitalization Energy Communities website (https://energycommunities.gov/energy-community-tax-credit-bonus/).In relation to the data, a coal mine is identified for purposes of the energy community credit bonus if it is or has been in the Department of Labor’s Mine Safety and Health Administration’s (MSHA’s) “Mines” data set after Dec. 31, 1999. Mines for the energy community credit bonus are those with a type of “Surface” or “Underground.”A mine will be identified as “closed” if after Dec. 31, 1999 it has ever been listed in MSHA’s Mines dataset as having a status of “Abandoned” or “Abandoned and Sealed.” The definition of “mine status” can be found on pages 3-4 of the Instructions for Completing the Mine Information Form (MSHA 2000-209). The map showing the census tracts that have had coal mine closures since 1999 and census tracts directly adjoining to such census tracts is based on MSHA’s Mines dataset as of Feb. 7, 2023. Historical versions of MSHA’s Mines dataset are also used to identify mines that have ever had, since Dec. 31, 1999, a status of “Abandoned” or “Abandoned and Sealed.”An electric generating unit is identified according to its presence in the Department of Energy’s (DOE’s) U.S. Energy Information Administration (EIA) Electric Generator Inventory data from Form EIA-860, supplemented with Monthly Electric Generator Inventory from EIA-860M.Data from forms EIA-860 and EIA-860M provide listings of retirements. An electric generating unit is considered a retired coal-fired electric generating unit if it is classified as retired at any time since December 31, 2009, and at the time of being listed as retired is characterized as a coal-fired electric generating unit.An electric generating unit is characterized as “coal-fired” based on the available data for past years. For years 2014 to 2022, coal-fired electric generating units are those listed in EIA Form 860M or EIA Form 860 data as having a “Technology” of “Conventional Steam Coal” or “Coal Integrated Gasification Combined Cycle.” For years 2010 to 2013, coal-fired electric generating units are those listed in EIA Form 860 data as having a primary fuel source code of anthracite coal, bituminous coal, lignite coal, refined coal, coal-derived synthesis gas, subbituminous coal, and waste/other coal.Links to these data resources, as well as FAQs regarding these data can be found on the Interagency Working Group on Coal &amp;amp; Power Plant Communities &amp;amp; Economic Revitalization Energy Communities website (https://energycommunities.gov/energy-community-tax-credit-bonus/).</abstract>
+<purpose>Dataset outlining energy communities across the U.S. based off part of the Inflation Reduction Act’s (IRA) definition that is focused on census tracts and directly adjoining tracts that have had coal mine closures since 1999 or coal-fired electric generating unit retirements since 2009.</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Energy Community</themekey>
+<themekey>U.S.</themekey>
+<themekey>Closure</themekey>
+<themekey>Coal Mine</themekey>
+<themekey>Coal Power Generator</themekey>
+<themekey>Inflation Reduction Act</themekey>
+<themekey>IRA</themekey>
+<themekey>Tax Credit Bonus</themekey>
+<themekey>Census Tract</themekey>
+<themekey>directly adjoining census tract</themekey>
+<themekey>U.S. Department of Energy</themekey>
+<themekey>National Energy Technology Laboratory</themekey>
+<themekey>Interagency Working Group on Coal and Power Plant Communities and Economic Revitalization</themekey>
+<themekey>U.S. Department of the Treasury</themekey>
+<themekey>DOE</themekey>
+<themekey>NETL</themekey>
+<themekey>IWG</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>U.S. Department of Energy (DOE), National Energy Technology Laboratory (NETL), Interagency Working Group (IWG) on Coal &amp;amp; Power Plant Communities &amp;amp; Economic Revitalization, U.S. Department of the Treasury. IRA Energy Community Data Layers. 4/4/2023. https://edx.netl.doe.gov/dataset/ira-energy-community-data-layers.</useconst>
+<datacred>U.S. Department of Energy (DOE), National Energy Technology Laboratory (NETL), Interagency Working Group (IWG) on Coal &amp; Power Plant Communities &amp; Economic Revitalization, U.S. Department of the Treasury. IRA Energy Community Data Layers. 4/4/2023. https://edx.netl.doe.gov/dataset/ira-energy-community-data-layers.</datacred>
+</idinfo>
+<metainfo>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

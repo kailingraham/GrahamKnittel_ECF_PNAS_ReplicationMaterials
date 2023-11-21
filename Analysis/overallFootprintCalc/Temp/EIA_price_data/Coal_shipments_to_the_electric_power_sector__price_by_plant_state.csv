@@ -1,0 +1,69 @@
+"Coal shipments to the electric power sector: price, by plant state"
+"https://www.eia.gov/coal/data/browser/#/topic/45?agg=1,0&geo=g0fvvvvvvvvvo&rank=g&linechart=COAL.SHIP_PLANT_PRICE.US-TOT.A&columnchart=COAL.SHIP_PLANT_PRICE.US-TOT.A&map=COAL.SHIP_PLANT_PRICE.ME-TOT.A&freq=A&start=2015&end=2021&ctype=map&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Tue Feb 14 2023 17:01:25 GMT-0500 (Eastern Standard Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2015","2016","2017","2018","2019","2020","2021"
+"Coal shipments to the electric power sector: price, by plant state","$/short ton",,,,,,,,
+"All coal","$/short ton","COAL.SHIP_PLANT_PRICE.US-TOT.A",,,,,,,
+"All coal : United States","$/short ton","COAL.SHIP_PLANT_PRICE.US-TOT.A",42.60,40.64,39.18,39.16,38.64,36.36,37.69
+"All coal : New England",,"COAL.SHIP_PLANT_PRICE.NEW-TOT.A",,,,,,,
+"All coal : Connecticut","$/short ton","COAL.SHIP_PLANT_PRICE.CT-TOT.A",69.48,54.24,"--",72.21,"--","--","--"
+"All coal : Maine","$/short ton","COAL.SHIP_PLANT_PRICE.ME-TOT.A",125.02,104.01,115.96,144.29,154.11,119.62,120.44
+"All coal : Massachusetts","$/short ton","COAL.SHIP_PLANT_PRICE.MA-TOT.A",68.05,59.69,54.18,"--","--","--","--"
+"All coal : New Hampshire","$/short ton","COAL.SHIP_PLANT_PRICE.NH-TOT.A",97.56,105.55,99.00,86.29,77.89,80.97,107.23
+"All coal : Rhode Island","$/short ton","COAL.SHIP_PLANT_PRICE.RI-TOT.A","--","--","--",66.81,"--","--","--"
+"All coal : Vermont","$/short ton","COAL.SHIP_PLANT_PRICE.VT-TOT.A","--","--","--","--","--","--","--"
+"All coal : Middle Atlantic",,"COAL.SHIP_PLANT_PRICE.MAT-TOT.A",,,,,,,
+"All coal : New Jersey","$/short ton","COAL.SHIP_PLANT_PRICE.NJ-TOT.A",98.40,94.57,92.48,91.98,91.56,96.07,83.42
+"All coal : New York","$/short ton","COAL.SHIP_PLANT_PRICE.NY-TOT.A",59.19,61.05,75.17,71.59,69.09,"--","--"
+"All coal : Pennsylvania","$/short ton","COAL.SHIP_PLANT_PRICE.PA-TOT.A",50.76,45.85,40.24,43.67,39.31,30.81,39.98
+"All coal : East North Central",,"COAL.SHIP_PLANT_PRICE.ENC-TOT.A",,,,,,,
+"All coal : Illinois","$/short ton","COAL.SHIP_PLANT_PRICE.IL-TOT.A",33.79,31.33,31.44,31.18,31.75,28.66,29.16
+"All coal : Indiana","$/short ton","COAL.SHIP_PLANT_PRICE.IN-TOT.A",51.23,50.25,48.01,47.00,47.05,46.37,50.41
+"All coal : Michigan","$/short ton","COAL.SHIP_PLANT_PRICE.MI-TOT.A",45.07,42.36,40.66,40.00,39.61,38.95,38.90
+"All coal : Ohio","$/short ton","COAL.SHIP_PLANT_PRICE.OH-TOT.A",53.53,50.55,47.24,45.14,44.65,44.17,41.44
+"All coal : Wisconsin","$/short ton","COAL.SHIP_PLANT_PRICE.WI-TOT.A",40.27,39.58,39.50,40.44,39.98,35.31,36.94
+"All coal : West North Central",,"COAL.SHIP_PLANT_PRICE.WNC-TOT.A",,,,,,,
+"All coal : Iowa","$/short ton","COAL.SHIP_PLANT_PRICE.IA-TOT.A",28.32,28.00,29.15,28.45,27.08,26.49,27.94
+"All coal : Kansas","$/short ton","COAL.SHIP_PLANT_PRICE.KS-TOT.A",29.22,29.26,29.46,29.31,27.61,26.52,24.74
+"All coal : Minnesota","$/short ton","COAL.SHIP_PLANT_PRICE.MN-TOT.A",33.63,36.37,37.11,38.91,35.76,34.49,38.39
+"All coal : Missouri","$/short ton","COAL.SHIP_PLANT_PRICE.MO-TOT.A",33.38,32.86,32.83,31.85,29.53,27.55,29.42
+"All coal : Nebraska","$/short ton","COAL.SHIP_PLANT_PRICE.NE-TOT.A",22.73,22.73,23.20,21.37,20.97,21.18,19.74
+"All coal : North Dakota","$/short ton","COAL.SHIP_PLANT_PRICE.ND-TOT.A",20.71,20.38,21.02,20.15,21.20,21.06,21.00
+"All coal : South Dakota","$/short ton","COAL.SHIP_PLANT_PRICE.SD-TOT.A",36.72,37.32,36.34,30.85,29.42,30.90,31.43
+"All coal : South Atlantic",,"COAL.SHIP_PLANT_PRICE.SAT-TOT.A",,,,,,,
+"All coal : Delaware","$/short ton","COAL.SHIP_PLANT_PRICE.DE-TOT.A",82.88,82.97,82.81,81.08,81.37,"--",79.25
+"All coal : District Of Columbia","$/short ton","COAL.SHIP_PLANT_PRICE.DC-TOT.A","--","--","--","--","--","--","--"
+"All coal : Florida","$/short ton","COAL.SHIP_PLANT_PRICE.FL-TOT.A",73.19,70.61,69.48,68.23,67.06,58.80,62.69
+"All coal : Georgia","$/short ton","COAL.SHIP_PLANT_PRICE.GA-TOT.A",58.57,56.58,55.54,53.99,52.97,53.72,55.85
+"All coal : Maryland","$/short ton","COAL.SHIP_PLANT_PRICE.MD-TOT.A",72.26,71.95,66.73,63.88,66.75,65.88,70.32
+"All coal : North Carolina","$/short ton","COAL.SHIP_PLANT_PRICE.NC-TOT.A",86.30,77.14,74.21,78.61,70.08,63.98,67.50
+"All coal : South Carolina","$/short ton","COAL.SHIP_PLANT_PRICE.SC-TOT.A",88.48,79.86,81.92,81.96,79.92,78.48,72.55
+"All coal : Virginia","$/short ton","COAL.SHIP_PLANT_PRICE.VA-TOT.A",67.92,65.60,62.36,61.25,65.81,52.94,50.88
+"All coal : West Virginia","$/short ton","COAL.SHIP_PLANT_PRICE.WV-TOT.A",56.42,55.37,53.84,51.55,51.79,49.85,49.05
+"All coal : East South Central",,"COAL.SHIP_PLANT_PRICE.ESC-TOT.A",,,,,,,
+"All coal : Alabama","$/short ton","COAL.SHIP_PLANT_PRICE.AL-TOT.A",49.35,45.71,42.37,44.08,43.27,39.06,40.21
+"All coal : Kentucky","$/short ton","COAL.SHIP_PLANT_PRICE.KY-TOT.A",49.01,46.73,43.79,43.45,42.16,41.78,42.05
+"All coal : Mississippi","$/short ton","COAL.SHIP_PLANT_PRICE.MS-TOT.A",41.11,34.30,35.95,34.26,37.15,34.33,33.88
+"All coal : Tennessee","$/short ton","COAL.SHIP_PLANT_PRICE.TN-TOT.A",52.01,48.01,48.66,48.41,48.32,42.77,43.31
+"All coal : West South Central",,"COAL.SHIP_PLANT_PRICE.WSC-TOT.A",,,,,,,
+"All coal : Arkansas","$/short ton","COAL.SHIP_PLANT_PRICE.AR-TOT.A",38.79,37.09,35.11,34.27,34.13,33.08,36.60
+"All coal : Louisiana","$/short ton","COAL.SHIP_PLANT_PRICE.LA-TOT.A",44.57,43.75,43.81,47.60,49.02,66.92,82.62
+"All coal : Oklahoma","$/short ton","COAL.SHIP_PLANT_PRICE.OK-TOT.A",34.13,33.20,32.12,31.08,29.73,27.49,30.15
+"All coal : Texas","$/short ton","COAL.SHIP_PLANT_PRICE.TX-TOT.A",30.55,27.50,27.17,27.35,26.91,26.90,29.47
+"All coal : Mountain",,"COAL.SHIP_PLANT_PRICE.MTN-TOT.A",,,,,,,
+"All coal : Arizona","$/short ton","COAL.SHIP_PLANT_PRICE.AZ-TOT.A",39.61,41.48,43.39,47.42,48.95,38.82,41.87
+"All coal : Colorado","$/short ton","COAL.SHIP_PLANT_PRICE.CO-TOT.A",34.62,34.78,32.92,30.04,32.38,31.73,29.69
+"All coal : Idaho","$/short ton","COAL.SHIP_PLANT_PRICE.ID-TOT.A","--","--","--","--","--","--","--"
+"All coal : Montana","$/short ton","COAL.SHIP_PLANT_PRICE.MT-TOT.A",23.24,25.62,25.31,22.83,23.40,26.62,27.91
+"All coal : Nevada","$/short ton","COAL.SHIP_PLANT_PRICE.NV-TOT.A",48.83,46.20,45.48,51.60,52.66,47.07,48.17
+"All coal : New Mexico","$/short ton","COAL.SHIP_PLANT_PRICE.NM-TOT.A",42.33,35.19,36.93,46.33,45.84,47.52,49.09
+"All coal : Utah","$/short ton","COAL.SHIP_PLANT_PRICE.UT-TOT.A",42.37,42.19,42.18,44.01,43.18,44.99,43.93
+"All coal : Wyoming","$/short ton","COAL.SHIP_PLANT_PRICE.WY-TOT.A",28.18,29.86,28.72,29.12,28.10,29.43,30.86
+"All coal : Pacific Contiguous",,"COAL.SHIP_PLANT_PRICE.PCC-TOT.A",,,,,,,
+"All coal : California","$/short ton","COAL.SHIP_PLANT_PRICE.CA-TOT.A","--","--","--","--","--","--","--"
+"All coal : Oregon","$/short ton","COAL.SHIP_PLANT_PRICE.OR-TOT.A",41.12,38.90,40.14,40.44,39.57,37.61,"--"
+"All coal : Washington","$/short ton","COAL.SHIP_PLANT_PRICE.WA-TOT.A",36.80,36.73,36.82,36.80,36.89,36.86,36.84
+"All coal : Pacific Noncontiguous",,"COAL.SHIP_PLANT_PRICE.PCN-TOT.A",,,,,,,
+"All coal : Alaska","$/short ton","COAL.SHIP_PLANT_PRICE.AK-TOT.A",47.16,44.11,43.44,46.75,50.48,49.26,49.19
+"All coal : Hawaii","$/short ton","COAL.SHIP_PLANT_PRICE.HI-TOT.A",77.03,70.13,76.74,93.53,76.76,80.33,82.48

@@ -1,0 +1,20 @@
+\begin{threeparttable}
+    \scriptsize
+    \begin{tabular}{l r c c c c c c c l}
+        \toprule
+         $n=1547$ & \multicolumn{1}{r}{\textit{k}} & (1)   & (2)   & (3)   & (4) & (5) & (6) & (7) & \multicolumn{1}{r}{$\mathrm{Var}[e]$} \\
+        \midrule
+        Workforce allocation            & 8 & 0.539\tnote{*} & & & & & & & 0.712 \\
+        Demographics                    & 7 & & 0.287\tnote{*} & & & & & & 1.10\\
+        Politics                        & 2 & & & 0.251\tnote{*} & & & & & 1.16 \\
+        Power grid carbon intensity     & 1 & & & & 0.070\tnote{*} & & & & 1.44\\
+        Heating \& cooling degree days  & 2 & & & & & 0.081\tnote{*} & & & 1.42\\
+        Fuel mix                        & 48 & & & & & & 0.522\tnote{*} & & 0.739\\
+        \midrule
+        Stepwise model & 126 & 0.539\tnote{*} & 0.603\tnote{*} & 0.615\tnote{*} & 0.659\tnote{*} & 0.663\tnote{*} & 0.723\tnote{*} & 0.742\tnote{*} & 0.399\\
+        \bottomrule
+    \end{tabular}
+    \begin{tablenotes}
+    \item\scriptsize\textit{Notes:} * $p < 0.01$. This table presents the $R^2$ scores of the regressions performed during the explained variance analysis. The first panel shows the results of an individual regression analysis where each row controls for different sets of variables. The second panel shows the results of a stepwise regression where these sets of controls are progressively added to the model. In both panels, column (1) introduces each sector's share of total county employment, column (2) adds demographic variables (including an interaction term between population density and average personal income), column (3) adds political variables, column (4) introduces the average carbon intensity of the electricity grid in the county, column (5) introduces the 30-year average annual heating and cooling degree days for the county, and column (6) adds $EF_{ss}$ values for each subsector within each high-level sector to control for fuel mix (at 3- or 4-digit NAICS granularity, depending on data availability). For the stepwise model, interaction terms were added in column (4) between power grid carbon intensity and sectoral employment share, column (6) between heating/cooling degree days and power grid carbon intensity and column (7) between sectoral employment share and $EF_{ss}$ values within the same sector. The final column represents the variance that is unexplained by the last column for that row.
+    \end{tablenotes}
+\end{threeparttable}
